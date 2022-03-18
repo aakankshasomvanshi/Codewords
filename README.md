@@ -26,5 +26,5 @@ E) High Level Solution :
 
 F) Unit Test cases :
       - I have prepared CHL and executed . Please review testing artifact of project 
-          CountWordsTestCaseCalenderWithStatus.xlsx 
+          CounterWordsTestCases.xlsx 
      -  Another approach to add all TC in SOAP UI suit and run from SOAP UI.
